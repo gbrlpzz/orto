@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>io.github.gbrlpzz.orto</string>
+	<key>CFBundleName</key>
+	<string>Orto</string>
+	<key>CFBundleExecutable</key>
+	<string>orto</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Orto reads and edits calendar events when Claude asks it to.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Orto reads and edits reminders when Claude asks it to.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Orto looks up contacts when Claude asks it to.</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Orto controls Mail, Notes and Messages when Claude asks it to.</string>
+</dict>
+</plist>
