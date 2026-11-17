@@ -13,7 +13,7 @@ git clone https://github.com/gbrlpzz/orto && cd orto
 make install
 ```
 
-This builds `Orto.app`, copies it to `~/Applications`, and adds it to Claude Desktop's config. Quit and reopen Claude, and the tools are there.
+This builds `Orto.app`, copies it to `~/Applications`, and adds it to Claude Desktop's config. Quit and reopen Claude, and the tools are there. If Claude Code is installed, it gets the server too, plus a [skill](skills/orto/SKILL.md) that teaches it when and how to use the tools.
 
 For another MCP client, point it at the binary:
 
